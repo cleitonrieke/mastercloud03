@@ -1,0 +1,9 @@
+{
+	"name": "Prod-AlphaVantage-Crieke",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9daaf43e-6ae5-4a72-93bd-b8fcb52123ee",
+		"tenantId": "fc945e1a-9c83-4bca-9465-090769a95149"
+	}
+}
