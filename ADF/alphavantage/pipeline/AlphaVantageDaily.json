@@ -12,6 +12,19 @@
 				}
 			}
 		],
+		"parameters": {
+			"raw_layer": {
+				"type": "string",
+				"defaultValue": "raw"
+			},
+			"apikey": {
+				"type": "string",
+				"defaultValue": {
+					"value": "@linkedService('AlphaVantageVault').secrets.alphavantagepassword",
+					"type": "Expression"
+				}
+			}
+		},
 		"annotations": []
 	}
 }
