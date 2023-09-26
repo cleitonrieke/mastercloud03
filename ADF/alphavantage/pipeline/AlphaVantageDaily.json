@@ -100,7 +100,9 @@
 			"symbol": {
 				"type": "Array",
 				"defaultValue": [
-					"['BBDC4.SA', 'IRMD11.SA', 'IBM']"
+					"BBDC4.SA",
+					"IRMD11.SA",
+					"IBM"
 				]
 			}
 		},
