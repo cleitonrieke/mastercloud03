@@ -20,7 +20,7 @@
 			"apikey": {
 				"type": "string",
 				"defaultValue": {
-					"value": "@linkedService('AlphaVantageVault').secrets.alphavantagepassword",
+					"value": "@linkedService('AlphaVantageVault').secrets.alphavantagekey",
 					"type": "Expression"
 				}
 			}
