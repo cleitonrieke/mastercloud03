@@ -1,5 +1,13 @@
 {
 	"name": "Prod-AlphaVantage-Crieke",
+	"properties": {
+		"globalParameters": {
+			"environment": {
+				"type": "string",
+				"value": "prod"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
