@@ -101,8 +101,10 @@
 				"type": "Array",
 				"defaultValue": [
 					"BBDC4.SA",
-					"IRMD11.SA",
-					"IBM"
+					"VALE3.SA",
+					"ITUB4.SA",
+					"ABEV3.SA",
+					"PETR4.SA"
 				]
 			}
 		},
